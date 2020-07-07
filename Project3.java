@@ -7,7 +7,8 @@ import java.util.*; // anything after the // is a comment
 // we use the class keyword to denote an OBJECT
 // an object is simply a collection of PROPERTIES (variables)
 // and METHODS (functions) that relate to each other
-public class Project2 {
+public class Project3
+ {
 
   
   public static void main(String[] args) {
